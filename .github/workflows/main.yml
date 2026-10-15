@@ -2,7 +2,7 @@ name: salma
 on:
   push:    
     branches: [ "main" ]
-  pull_rquest:
+  pull_request:
     branches: [ "main" ]
   workflow_dispatch:
  jobs:
